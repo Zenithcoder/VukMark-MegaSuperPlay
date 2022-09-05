@@ -49,11 +49,6 @@ abstract class AbstractProduct
     public function __construct(int $id)
     {
         $this->id = $id;
-        //$this->width = $width;
-       // $this->height = $height;
-       // $this->depth = $depth;
-       // $this->price = $price;
-       // $this->type = $type;
     }
 
     /**
